@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProjectPP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gasson_bathrooms">Gasson Bathrooms</string>
+    <string name="post_stall">Post on Stall</string>
+    <string name="title">title</string>
+    <string name="address">address</string>
+    <string name="viewTags">View Tags</string>
+    <string name="post">Post</string>
+    <string name="comment">comment</string>
+    <string name="viewposts">View Posts</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="roeungsa.bc.cs.finalprojectpp.FinalProjectPP_MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/menu_getcurrentlocation"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Get Current Location"/>
+    
+  
+ 	<item
+        android:id="@+id/menu_showcurrentlocation"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Show Current Location"/>
+    
+ 
+
+
+</menu>
